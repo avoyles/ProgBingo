@@ -66,7 +66,7 @@ var textList = [
     ["Gabby pots",default_desc],
     ["Someone pulls via autos",default_desc],
     ["Gabby casts Communio during mechanic",default_desc],
-    ["''OMG _______ hiiiiiiiiiiiii''",default_desc],
+    ["''OMG _______ haiiiiiiiiiiiii''",default_desc],
     ["Someone confidently miscalls a safe spot",default_desc],
     ["Oswyn casts Tenka Gokken instead of Midare setsugeka",default_desc],
     ["Resurrected into bad",default_desc],
@@ -78,9 +78,9 @@ var textList = [
     ["Fruit mentioned",default_desc],
     ["Rescued into death",default_desc],
     ["POKE BALL",default_desc],
-    // ["",default_desc],
-    // ["",default_desc],
-    // ["",default_desc],
+    ["LILY OFF THE KEYBOARD",default_desc],
+    ["Cat steals something from Mortis",default_desc],
+    ["<i>screams in Sven</i>",default_desc],
 ];
 
 
@@ -89,7 +89,7 @@ var freeList = [
     ["Magnus shenanigans"],
     ["Lily shenanigans"],
     ["''Hello, hello''"],
-//    [" "]
+   // ["<i>screams in Sven "]
 ];
 
 
