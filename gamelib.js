@@ -81,6 +81,23 @@ var textList = [
     ["LILY OFF THE KEYBOARD",default_desc],
     ["Cat steals something from Mortis",default_desc],
     ["<i>screams in Sven</i>",default_desc],
+    ["''Boss-relative''",default_desc],
+    ["Mixed up true north",default_desc],
+    ["Someone forgot the new strat",default_desc],
+    ["''I guess I'll die''",default_desc],
+    ["Gotta catch em all! (vuln stack edition)",default_desc],
+    ["Blames latency",default_desc],
+    ["Blames bad snapshots",default_desc],
+    ["Greeded a positional",default_desc],
+    ["''I have the stupid''",default_desc],
+    ["<i>Woops pipe sound</i>",default_desc],
+    ["''We've cleared this before, I swear''",default_desc],
+    ["Tank cleaves party (accidentally)",default_desc],
+    ["Tank cleaves party (intentionally)",default_desc],
+    ["''Can anyone repair?''",default_desc],
+    ["Venn diagrammed",default_desc],
+    // ["",default_desc],
+    // ["",default_desc],
 ];
 
 
@@ -89,6 +106,7 @@ var freeList = [
     ["Magnus shenanigans"],
     ["Lily shenanigans"],
     ["''Hello, hello''"],
+    ["Stood in the AoE"],
    // ["<i>screams in Sven "]
 ];
 
