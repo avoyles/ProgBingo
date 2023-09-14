@@ -1,31 +1,11 @@
 Release Notes:
 
-Update 1 (For Fri. 2/20/15):
-       2/14/15:
-       - Removed free space
-       - Took out FB link
-       - Added new phrases. Some may not appear every time now.
+Update 1 (For 28 May 2019):
+       - Added separate list for Free Space phrases
+       - Now with 213% more snark!  
        - Added tile descriptions page
 
-       2/17/15:
-       - Fixed double-click-and-impossible-to-win glitch
-       - "What's new" menu button added.
-
-       2/18/15:
-       - Added free space in center
-
-Update 2 (For Fri. 2/27/15):
-	2/27/15:
-	- Removed banner (so it's not so obvious on laptop screens)
-	- New phrase added "Speaker insults others in their field."
-	- Removed phrase "Train rattles colloquium room."
-
-Update 3 (For Fri. 3/5/15):
-       3/5/15:
-       - Removed Professor's names from squares.
-       - Added "Sponsored Ads"
-       - Added/removed some phrases.
-
-Update 4 (FOr Fri. 3/13/15):
-       3/13/15
-       - Updated speaker info
+Update 2 (For 29 May 2019):
+       - Attempting to fix mobile rendering of Comic Sans
+       - Now with 172% more snark!  
+       - Added more phrases

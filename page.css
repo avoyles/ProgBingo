@@ -1,9 +1,10 @@
 
 body {
-    background-color: rgb(50,200,50);
+    background-color: rgb(51, 153, 255);
     width: 1300px;
     padding: 4px;
     font-family: "Sans serif";
+/*    font-family: "ComicNeue", "Sans serif";*/
     overflow-x: scroll;
 }
 
@@ -60,8 +61,8 @@ a.menuitem:active {
 }
 
 .gametile {
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 120px;
     text-align: center;
     font-size: 0.8em;
     border: solid 4px black;
@@ -78,6 +79,55 @@ a.menuitem:active {
 #infoblock p {
     text-align: center;
 }
+
+/*@font-face {*/
+/*  font-family: myFirstFont;*/
+/*  src: url(comic-sans-ms/comici.ttf);*/
+/*}*/
+
+/*@font-face {*/
+/*  font-family: myCustomFont;*/
+/*  src: url(comic.ttf);*/
+/*}*/
+
+
+/*@import url(https://db.onlinewebfonts.com/c/7cc6719bd5f0310be3150ba33418e72e?family=Comic+Sans+MS);*/
+
+@font-face {font-family: "myCustomFont2";
+    src: url("https://db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.eot");
+    src: url("https://db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.eot?#iefix") format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.woff2") format("woff2"),
+    url("https://db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.woff") format("woff"),
+    url("https://db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.ttf") format("truetype"),
+    url("https://db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.svg#Comic Sans MS") format("svg");
+}
+
+@font-face {
+/*  font-family: Comic Sans MS;*/
+  font-family: "MyComicMS";
+  src: url('./comic.ttf');
+}
+
+/*@font-face {*/
+/*/*  font-family: Comic Sans MS;*/*/
+/*  font-family: "Comic Sans MS", "Comic Sans", cursive;*/
+/*  src: url(comic-sans-ms/comici.ttf);*/
+/*}*/
+
+@font-face {
+  font-family: 'ComicNeue';
+  src: url('./fonts/ComicNeue-Bold.eot');
+  src: url('./fonts/ComicNeue-Bold.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/ComicNeue-Bold.woff2') format('woff2'),
+       url('./fonts/ComicNeue-Bold.woff') format('woff'),
+       url('./fonts/ComicNeue-Bold.ttf')  format('truetype');
+  font-weight: 700;
+}
+
+
+
+/*font-family: "Comic Sans MS", "Comic Sans", cursive;*/
+
 
 
 /* Not Used */
